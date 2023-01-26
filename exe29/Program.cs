@@ -9,5 +9,5 @@ for(int i = 0; i < array.Length; i++)
     array[i] = rnd.Next(0,i);
 
 }
-Console.WriteLine(string.Join(" ", array));
+Console.WriteLine(nummstring.Join(" ", array));
 
